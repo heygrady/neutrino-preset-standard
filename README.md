@@ -4,3 +4,4 @@
 config, following the [JavaScript Standard Style](http://standardjs.com/).
 
 ## Documentation
+This is a clone of the [Neutrino Airbnb Preset](https://neutrino.js.org/presets/neutrino-preset-airbnb-base/). Their documentation should still apply.
