@@ -1,6 +1,6 @@
 {
-  "name": "neutrino-preset-airbnb-base",
-  "version": "4.3.1",
+  "name": "neutrino-preset-standard",
+  "version": "4.3.0",
   "description": "Neutrino preset for adding Standard's base JS ESLint config, following the JavaScript Standard Style",
   "main": "src/index.js",
   "keywords": [
@@ -13,6 +13,9 @@
   "author": "Grady Kuhnline <github@heygrady.net>",
   "license": "MPL-2.0",
   "repository": "heygrady/neutrino-preset-standard",
+  "scripts": {
+    "publish": "npm publish"
+  },
   "dependencies": {
     "deepmerge": "^1.3.2",
     "eslint-config-standard": "^6.2.1",
