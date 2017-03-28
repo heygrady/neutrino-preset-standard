@@ -18,10 +18,10 @@
     "eslint-config-standard": "^7.0.0",
     "eslint-plugin-promise": "^3.4.2",
     "eslint-plugin-standard": "^2.0.1",
-    "neutrino-lint-base": "^4.3.1"
+    "neutrino-middleware-eslint": "^5.0.1"
   },
   "peerDependencies": {
-    "neutrino": "^4.0.0"
+    "neutrino": "^5.0.0"
   },
   "homepage": "https://github.com/heygrady/neutrino-preset-standard",
   "bugs": "https://github.com/heygrady/neutrino-preset-standard/issues"
