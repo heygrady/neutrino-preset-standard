@@ -16,8 +16,8 @@ In your `package.json` you should add this package to your presets.
 
 ```json
 {
-  "config": {
-    "presets": [
+  "neutrino": {
+    "use": [
       "neutrino-preset-standard"
     ]
   },
